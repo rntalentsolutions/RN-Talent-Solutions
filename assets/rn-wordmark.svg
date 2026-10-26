@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 112" role="img" aria-labelledby="title">
+<title id="title">RN Talent Solutions — People. Technology. Progress.</title>
+<defs><linearGradient id="g" x1="10" y1="10" x2="100" y2="100" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF0C4"/><stop offset=".5" stop-color="#E4C16F"/><stop offset="1" stop-color="#A97727"/></linearGradient></defs>
+<rect x="2" y="2" width="108" height="108" rx="25" fill="#0B1A2D"/>
+<path d="M56 12 94 34v44L56 100 18 78V34Z" fill="none" stroke="url(#g)" stroke-width="2.6"/>
+<path d="M31 76V39h10l18 22V39h10v37H59L41 54v22Z" fill="url(#g)"/><path d="M72 76V39h10v37Z" fill="url(#g)"/><path d="M72 39h10l13 17v20H85V59Z" fill="url(#g)"/>
+<text x="130" y="49" font-family="Arial,sans-serif" font-size="30" font-weight="800" letter-spacing="-1.2" fill="#101F35">RN TALENT SOLUTIONS</text>
+<text x="132" y="79" font-family="Arial,sans-serif" font-size="13" letter-spacing="3.2" fill="#A77B2C">PEOPLE. TECHNOLOGY. PROGRESS.</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+<title id="title">RN Talent Solutions logo</title>
+<desc id="desc">Gold RN monogram inside an elegant hexagon on a deep navy background.</desc>
+<defs>
+  <linearGradient id="gold" x1="16" y1="10" x2="103" y2="110" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#FFF0C4"/><stop offset=".48" stop-color="#E4C16F"/><stop offset="1" stop-color="#A97727"/>
+  </linearGradient>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="2.1" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="120" height="120" rx="27" fill="#0B1A2D"/>
+<path d="M60 10 101 33.5v47L60 104 19 80.5v-47Z" fill="none" stroke="url(#gold)" stroke-width="2.8" filter="url(#glow)"/>
+<path d="M33 79V41h10.5l18.2 23V41H72v38H61.5L43.3 56v23Z" fill="url(#gold)"/>
+<path d="M75 79V41h10.5l0 38Z" fill="url(#gold)"/>
+<path d="M75 41h10.5l13.2 17.2V79H88.2V61.1Z" fill="url(#gold)"/>
+</svg>
